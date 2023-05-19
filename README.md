@@ -1,6 +1,8 @@
 # 3D object reconstruction methods
 ## A comparative study
 
+![Results Image](https://github.com/amitamola/3D-reconstruction_using_NeRFs/blob/main/output.png)
+
 **Youtube Link to the demo -** **https://www.youtube.com/watch?v=P-U7F5AvmAU**
 
 Contents of this folder:
